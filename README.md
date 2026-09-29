@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mario 👋
 
-<!--
-**Icedoutmario/IcedOutMario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support technician and cybersecurity student. I troubleshoot hardware, software, accounts, and networks, and I document what I fix so the next person doesn't have to start from scratch.
 
-Here are some ideas to get you started:
+## About Me
+- 🛠️ Over a year of IT support experience in a healthcare environment
+- 🎓 Associate's degree in Cybersecurity, now working on my Bachelor's
+- 📜 CompTIA A+ certified
+- 🎯 Goal: grow from Help Desk into a SOC Analyst role
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Building
+| Project | Status |
+|---|---|
+| Active Directory Help Desk Lab | 🔨 In progress |
+| PowerShell Help Desk Toolkit | 📋 Planned |
+| IT Ticketing System + Knowledge Base | 📋 Planned |
+
+## Skills
+**Support:** Windows 10/11, Active Directory, Group Policy, Microsoft 365, hardware troubleshooting, user onboarding and offboarding
+
+**Tools:** PowerShell, VirtualBox, Windows Server, ticketing systems
+
+**Security:** Cybersecurity fundamentals, digital forensics, ethical hacking coursework
+
+## Connect With Me
+[LinkedIn](https://www.linkedin.com/in/mariosequeira1)
