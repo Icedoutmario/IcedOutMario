@@ -1,3 +1,11 @@
+<div align="center">
+
+<h3><code>mario@github ~ $ whoami</code></h3>
+
+<img src="./ascii-portrait.svg" width="420" alt="Mario Sequeira ASCII portrait" />
+
+</div>
+
 # Hi, I'm Mario 👋
 
 IT Support technician and cybersecurity student. I troubleshoot hardware, software, accounts, and networks, and I document what I fix so the next person doesn't have to start from scratch.
