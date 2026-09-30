@@ -2,7 +2,12 @@
 
 <h3><code>mario@github ~ $ whoami</code></h3>
 
-<img src="./ascii-portrait.svg" width="420" alt="Mario Sequeira ASCII portrait" />
+<table>
+<tr>
+<td valign="top"><img src="./ascii-portrait.svg" width="370" alt="Mario Sequeira ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="MARIO 3D ASCII wordmark" /></td>
+</tr>
+</table>
 
 </div>
 
