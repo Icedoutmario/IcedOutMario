@@ -46,8 +46,6 @@ IT Support technician and cybersecurity student. I troubleshoot hardware, softwa
 
 <h3><code>mario@github ~ $ ./links.sh</code></h3>
 
-<p><b>IT Support · Help Desk · Cybersecurity Student</b></p>
-
 <a href="https://www.linkedin.com/in/mariosequeira1"><img src="https://img.shields.io/badge/LinkedIn-mariosequeira1-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 
 </div>
