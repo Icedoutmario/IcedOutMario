@@ -9,6 +9,12 @@
 </tr>
 </table>
 
+<br>
+
+<h3><code>mario@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./jet-heatmap.svg" width="860" alt="Mario's GitHub contributions with an animated rocket" />
+
 </div>
 
 # Hi, I'm Mario 👋
