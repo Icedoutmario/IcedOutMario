@@ -30,14 +30,16 @@ IT Support technician and cybersecurity student. I troubleshoot hardware, softwa
 ## What I'm Building
 | Project | Status |
 |---|---|
-| Active Directory Help Desk Lab | 🔨 In progress |
-| PowerShell Help Desk Toolkit | 📋 Planned |
+| [Active Directory Help Desk Lab](https://github.com/Icedoutmario/Active-Directory-Helpdesk-Lab) | ✅ Complete |
+| PowerShell Help Desk Toolkit | 🔨 In progress |
 | IT Ticketing System + Knowledge Base | 📋 Planned |
 
 ## Skills
 **Support:** Windows 10/11, Active Directory, Group Policy, Microsoft 365, hardware troubleshooting, user onboarding and offboarding
 
-**Tools:** PowerShell, VirtualBox, Windows Server, ticketing systems
+**Infrastructure:** Windows Server 2025, DNS, DHCP, file shares and NTFS permissions
+
+**Tools:** PowerShell, VirtualBox, ticketing systems
 
 **Security:** Cybersecurity fundamentals, digital forensics, ethical hacking coursework
 
