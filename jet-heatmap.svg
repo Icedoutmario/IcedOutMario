@@ -397,6 +397,7 @@
 <rect x="826" y="62" width="12" height="12" rx="2.5" fill="#161b22"/>
 <rect x="826" y="77" width="12" height="12" rx="2.5" fill="#161b22"/>
 <rect x="826" y="92" width="12" height="12" rx="2.5" fill="#161b22"/>
+<rect x="826" y="107" width="12" height="12" rx="2.5" fill="#161b22"/>
 <circle cx="772" cy="197" r="2.3" fill="#7ee787" opacity="0"><animate attributeName="cy" dur="22.0s" repeatCount="indefinite" keyTimes="0;0.4266;0.4446;1" values="197;197;113;113"/><animate attributeName="opacity" dur="22.0s" repeatCount="indefinite" keyTimes="0;0.4256;0.4266;0.4446;0.4466;1" values="0;0;1;1;0;0"/></circle>
 <circle cx="772" cy="113" r="0" fill="none" stroke="#56d364" stroke-width="1.6" opacity="0"><animate attributeName="r" dur="22.0s" repeatCount="indefinite" keyTimes="0;0.4446;0.4646;1" values="0;0;10;10"/><animate attributeName="opacity" dur="22.0s" repeatCount="indefinite" keyTimes="0;0.4436;0.4446;0.4646;1" values="0;0;1;0;0"/></circle>
 <circle cx="772" cy="197" r="2.3" fill="#7ee787" opacity="0"><animate attributeName="cy" dur="22.0s" repeatCount="indefinite" keyTimes="0;0.4266;0.4446;1" values="197;197;83;83"/><animate attributeName="opacity" dur="22.0s" repeatCount="indefinite" keyTimes="0;0.4256;0.4266;0.4446;0.4466;1" values="0;0;1;1;0;0"/></circle>
