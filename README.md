@@ -31,7 +31,7 @@ IT Support technician and cybersecurity student. I troubleshoot hardware, softwa
 | Project | Status |
 |---|---|
 | [Active Directory Help Desk Lab](https://github.com/Icedoutmario/Active-Directory-Helpdesk-Lab) | ✅ Complete |
-| PowerShell Help Desk Toolkit | 🔨 In progress |
+| [PowerShell Help Desk Toolkit](https://github.com/Icedoutmario/powershell-helpdesk-toolkit) | 🔨 In progress |
 | IT Ticketing System + Knowledge Base | 📋 Planned |
 
 ## Skills
